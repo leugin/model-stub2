@@ -6,4 +6,5 @@ namespace Leugin\ModelStub2\Factory;
 class StubFactory
 {
 
+
 }
