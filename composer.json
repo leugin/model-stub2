@@ -1,0 +1,20 @@
+{
+    "name": "leugin/model-stub2",
+    "description": "Paquete de pruebas para stub",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leugin\\ModelStub2\\": "src/",
+            "Leugin\\ModelStub2\\Tests": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Quevedo",
+            "email": "meqh1922@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
